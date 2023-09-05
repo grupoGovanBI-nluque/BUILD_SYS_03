@@ -1,0 +1,67 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": false,
+  "websites": [
+    {
+      "repote": "BI_SYS_02 Aprobación de Comprobantes GESDOC",
+      "pagina": "Evolucion de estados",
+      "comentario": "comentario de prueba nluque 2023.09.05",
+      "url": "https://app.powerbi.com/groups/me/reports/e784c8d3-374e-4c54-b4af-e6c7d883395a/ReportSection7f137b948eb73079140c?experience=power-bi&chromeless=1",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://www.comercialcmp.com.ar/",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://www.pradecon.com.ar/?chromeless=1",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://www.hormetal.com/?chromeless=1",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://friostar.com.ar/?chromeless=1",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "http://translo.com.ar/?chromeless=1",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://www.plazaindustrial.com.ar/",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://www.dinsa.com/es/",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "file:///C:/Users/Equipo/Downloads/jpg1.jpg",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "file:///C:/Users/Equipo/Downloads/jpg2.jpg",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "file:///C:/Users/Equipo/Downloads/jpg3.jpg",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 0
+    }
+  ]
+}
