@@ -6,11 +6,16 @@
   "closeExistingTabs": false,
   "websites": [
     {
-      "repote": "BI_SYS_02 Aprobación de Comprobantes GESDOC",
+      "reporte": "BI_SYS_02 Aprobación de Comprobantes GESDOC",
       "pagina": "Evolucion de estados",
       "comentario": "comentario de prueba nluque 2023.09.05",
       "url": "https://app.powerbi.com/groups/me/reports/e784c8d3-374e-4c54-b4af-e6c7d883395a/ReportSection7f137b948eb73079140c?experience=power-bi&chromeless=1",
       "duration": 5,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://www.ostapovich.com/?chromeless=1",
+      "duration": 3,
       "tabReloadIntervalSeconds": 0
     },
     {
