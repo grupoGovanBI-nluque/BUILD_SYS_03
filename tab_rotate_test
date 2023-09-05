@@ -32,7 +32,12 @@
     },
     {
       "url": "http://translo.com.ar/?chromeless=1",
-      "duration": 3,
+      "duration": 2,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "http://indumon.com.ar/",
+      "duration": 2,
       "tabReloadIntervalSeconds": 0
     },
     {
