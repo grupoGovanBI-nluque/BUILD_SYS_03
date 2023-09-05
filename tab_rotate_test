@@ -1,0 +1,49 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": false,
+  "websites": [
+    {
+      "url": "https://www.ostapovich.com/?chromeless=1",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://www.comercialcmp.com.ar/?chromeless=1",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://www.pradecon.com.ar/?chromeless=1",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://www.hormetal.com/?chromeless=1",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://friostar.com.ar/?chromeless=1",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "http://translo.com.ar/?chromeless=1",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://www.plazaindustrial.com.ar/",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://www.dinsa.com/es/",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 0
+    }
+  ]
+}
