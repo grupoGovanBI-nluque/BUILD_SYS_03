@@ -44,21 +44,6 @@
       "url": "https://www.dinsa.com/es/",
       "duration": 3,
       "tabReloadIntervalSeconds": 0
-    },
-    {
-      "url": "file:///C:/Users/Equipo/Downloads/jpg1.jpg",
-      "duration": 3,
-      "tabReloadIntervalSeconds": 0
-    },
-    {
-      "url": "file:///C:/Users/Equipo/Downloads/jpg2.jpg",
-      "duration": 3,
-      "tabReloadIntervalSeconds": 0
-    },
-    {
-      "url": "file:///C:/Users/Equipo/Downloads/jpg3.jpg",
-      "duration": 3,
-      "tabReloadIntervalSeconds": 0
     }
   ]
 }
