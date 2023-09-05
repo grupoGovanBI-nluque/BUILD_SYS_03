@@ -6,6 +6,12 @@
   "closeExistingTabs": false,
   "websites": [
     {
+      "comentario": "instalar extension de reloj y clima en nueva pestanna https://chrome.google.com/webstore/detail/calm-style-your-new-tab/nlbogimjpbkdemejcldggipfglbcflmn/related",
+      "url": "chrome://newtab",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
       "url": "https://www.ostapovich.com/?chromeless=1",
       "duration": 5,
       "tabReloadIntervalSeconds": 0
