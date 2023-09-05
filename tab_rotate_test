@@ -6,8 +6,8 @@
   "closeExistingTabs": false,
   "websites": [
     {
-      "comentario": "instalar extension de reloj y clima en nueva pestanna https://chrome.google.com/webstore/detail/calm-style-your-new-tab/nlbogimjpbkdemejcldggipfglbcflmn/related",
-      "url": "chrome://newtab",
+      "comentario": "WEB COMUN DEL CLIMA",
+      "url": "https://weather.com/es-AR/tiempo/hoy/l/9375337fa20456d725d474eae174978580b8834fcdd572de15901ae8961e56bd",
       "duration": 5,
       "tabReloadIntervalSeconds": 0
     },
