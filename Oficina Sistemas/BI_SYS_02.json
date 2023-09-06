@@ -2,37 +2,70 @@
   "settingsReloadIntervalMinutes": 1,
   "fullscreen": true,
   "autoStart": true,
-  "lazyLoadTabs": false,
-  "closeExistingTabs": false,
+  "lazyLoadTabs": true,
+  "closeExistingTabs": true,
   "websites": [
     {
+      "comentario": "WEB COMUN DEL CLIMA",
+      "url": "https://weather.com/es-AR/tiempo/hoy/l/9375337fa20456d725d474eae174978580b8834fcdd572de15901ae8961e56bd",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
       "reporte": "BI_SYS_02 Aprobación de Comprobantes GESDOC",
-      "pagina": "Evolucion de estados",
-      "comentario": "comentario de prueba nluque 2023.09.05",
+      "pagina": "[1] Evolucion de estados",
       "url": "https://app.powerbi.com/groups/me/reports/e784c8d3-374e-4c54-b4af-e6c7d883395a/ReportSection7f137b948eb73079140c?experience=power-bi&chromeless=1",
       "duration": 5,
       "tabReloadIntervalSeconds": 0
     },
     {
-      "comentario": "archivo en red, carpeta publica, nluque 2023.09.05",
-      "url": "file://filesrv/BUILD_SYS_03/dmc%201.jpg",
+      "reporte": "BI_SYS_02 Aprobación de Comprobantes GESDOC",
+      "pagina": "[2] Evolucion de estados vencidos",
+      "url": "https://app.powerbi.com/groups/me/reports/e784c8d3-374e-4c54-b4af-e6c7d883395a/ReportSection317c9fde31fe6f63af89?experience=power-bi&chromeless=1",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "reporte": "BI_SYS_02 Aprobación de Comprobantes GESDOC",
+      "pagina": "[3] Tiempo de Carga",
+      "url": "https://app.powerbi.com/groups/me/reports/e784c8d3-374e-4c54-b4af-e6c7d883395a/ReportSection38d196da840b7c51a39b?experience=power-bi&chromeless=1",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "reporte": "BI_SYS_02 Aprobación de Comprobantes GESDOC",
+      "pagina": "[4] Tiempo Apro Fin",
+      "url": "https://app.powerbi.com/groups/me/reports/e784c8d3-374e-4c54-b4af-e6c7d883395a/ReportSection275366330609a7d80e0e?experience=power-bi&chromeless=1",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "reporte": "BI_SYS_02 Aprobación de Comprobantes GESDOC",
+      "pagina": "[5] Tiempo Ord Pago",
+      "url": "https://app.powerbi.com/groups/me/reports/e784c8d3-374e-4c54-b4af-e6c7d883395a/ReportSectionec9588fb0d018001d642?experience=power-bi&chromeless=1",
       "duration": 5,
       "tabReloadIntervalSeconds": 0
     },
     {
       "comentario": "archivo en red, carpeta publica, nluque 2023.09.05",
-      "url": "file://filesrv/BUILD_SYS_03/dmc%202.jpg",
+      "url": "file://filesrv/BUILD_SYS_03/test%201.jpg",
       "duration": 5,
       "tabReloadIntervalSeconds": 0
     },
     {
       "comentario": "archivo en red, carpeta publica, nluque 2023.09.05",
-      "url": "file://filesrv/BUILD_SYS_03/dmc%203.jpg",
+      "url": "file://filesrv/BUILD_SYS_03/test%202.jpg",
       "duration": 5,
       "tabReloadIntervalSeconds": 0
     },
     {
-      "url": "https://www.ostapovich.com/?chromeless=1",
+      "comentario": "archivo en red, carpeta publica, nluque 2023.09.05",
+      "url": "file://filesrv/BUILD_SYS_03/test%203.jpg",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://www.ostapovich.com/",
       "duration": 3,
       "tabReloadIntervalSeconds": 0
     },
@@ -42,22 +75,22 @@
       "tabReloadIntervalSeconds": 0
     },
     {
-      "url": "https://www.pradecon.com.ar/?chromeless=1",
+      "url": "https://www.pradecon.com.ar/",
       "duration": 3,
       "tabReloadIntervalSeconds": 0
     },
     {
-      "url": "https://www.hormetal.com/?chromeless=1",
+      "url": "https://www.hormetal.com/",
       "duration": 3,
       "tabReloadIntervalSeconds": 0
     },
     {
-      "url": "https://friostar.com.ar/?chromeless=1",
+      "url": "https://friostar.com.ar/",
       "duration": 3,
       "tabReloadIntervalSeconds": 0
     },
     {
-      "url": "http://translo.com.ar/?chromeless=1",
+      "url": "http://translo.com.ar/",
       "duration": 3,
       "tabReloadIntervalSeconds": 0
     },
@@ -68,23 +101,6 @@
     },
     {
       "url": "https://www.dinsa.com/es/",
-      "duration": 3,
-      "tabReloadIntervalSeconds": 0
-    },
-    {
-      "url": "file:///C:/Users/Equipo/Downloads/jpg1.jpg",
-      "duration": 3,
-      "tabReloadIntervalSeconds": 0
-    },
-    {
-      "comentario": "archivo local nluque 2023.09.05",
-      "url": "file:///C:/Users/Equipo/Downloads/jpg2.jpg",
-      "duration": 3,
-      "tabReloadIntervalSeconds": 0
-    },
-    {
-      "comentario": "archivo local nluque 2023.09.05",
-      "url": "file:///C:/Users/Equipo/Downloads/jpg3.jpg",
       "duration": 3,
       "tabReloadIntervalSeconds": 0
     }
