@@ -9,42 +9,42 @@
       "comentario": "WEB COMUN DEL CLIMA",
       "url": "https://weather.com/es-AR/tiempo/hoy/l/9375337fa20456d725d474eae174978580b8834fcdd572de15901ae8961e56bd",
       "duration": 20,
-      "tabReloadIntervalSeconds": 0
+      "tabReloadIntervalSeconds": 1800
     },
     {
       "reporte": "BI_SYS_02 Aprobación de Comprobantes GESDOC",
       "pagina": "[1] Evolucion de estados",
       "url": "https://app.powerbi.com/groups/me/reports/e784c8d3-374e-4c54-b4af-e6c7d883395a/ReportSection7f137b948eb73079140c?experience=power-bi&chromeless=1",
       "duration": 20,
-      "tabReloadIntervalSeconds": 0
+      "tabReloadIntervalSeconds": 1800
     },
     {
       "reporte": "BI_SYS_02 Aprobación de Comprobantes GESDOC",
       "pagina": "[2] Evolucion de estados vencidos",
       "url": "https://app.powerbi.com/groups/me/reports/e784c8d3-374e-4c54-b4af-e6c7d883395a/ReportSection317c9fde31fe6f63af89?experience=power-bi&chromeless=1",
       "duration": 20,
-      "tabReloadIntervalSeconds": 0
+      "tabReloadIntervalSeconds": 1800
     },
     {
       "reporte": "BI_SYS_02 Aprobación de Comprobantes GESDOC",
       "pagina": "[3] Tiempo de Carga",
       "url": "https://app.powerbi.com/groups/me/reports/e784c8d3-374e-4c54-b4af-e6c7d883395a/ReportSection38d196da840b7c51a39b?experience=power-bi&chromeless=1",
       "duration": 20,
-      "tabReloadIntervalSeconds": 0
+      "tabReloadIntervalSeconds": 1800
     },
     {
       "reporte": "BI_SYS_02 Aprobación de Comprobantes GESDOC",
       "pagina": "[4] Tiempo Apro Fin",
       "url": "https://app.powerbi.com/groups/me/reports/e784c8d3-374e-4c54-b4af-e6c7d883395a/ReportSection275366330609a7d80e0e?experience=power-bi&chromeless=1",
       "duration": 20,
-      "tabReloadIntervalSeconds": 0
+      "tabReloadIntervalSeconds": 1800
     },
     {
       "reporte": "BI_SYS_02 Aprobación de Comprobantes GESDOC",
       "pagina": "[5] Tiempo Ord Pago",
       "url": "https://app.powerbi.com/groups/me/reports/e784c8d3-374e-4c54-b4af-e6c7d883395a/ReportSectionec9588fb0d018001d642?experience=power-bi&chromeless=1",
       "duration": 20,
-      "tabReloadIntervalSeconds": 0
+      "tabReloadIntervalSeconds": 1800
     },
     {
       "url": "https://www.ostapovich.com/",
