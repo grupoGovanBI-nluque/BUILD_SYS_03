@@ -7,6 +7,20 @@
   "websites": [
     
     {
+      "reporte": "BI_FAC_01 Facturacion",
+      "pagina": "[11] Acumulado Mensual ARS (com&constr)",
+      "url": "https://app.powerbi.com/groups/c4bd9b42-f7a3-40e5-bbc7-d13799f9ce43/reports/1db9c309-839d-4e4d-9974-9fb2e34a5337/ReportSectionac34a11a0d987d5b6a94?experience=power-bi&chromeless=1",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 1800
+    },
+    {
+      "reporte": "BI_FAC_01 Facturacion",
+      "pagina": "[12] Acumulado Mensual ARS (com&constr)",
+      "url": "https://app.powerbi.com/groups/c4bd9b42-f7a3-40e5-bbc7-d13799f9ce43/reports/1db9c309-839d-4e4d-9974-9fb2e34a5337/ReportSectionb9e62f4a00b970d24a05?experience=power-bi&chromeless=1",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 1800
+    },
+    {
       "reporte": "BI_SYS_02 Aprobación de Comprobantes GESDOC",
       "pagina": "[1] Evolucion de estados",
       "url": "https://app.powerbi.com/groups/me/reports/e784c8d3-374e-4c54-b4af-e6c7d883395a/ReportSection7f137b948eb73079140c?experience=power-bi&chromeless=1",
