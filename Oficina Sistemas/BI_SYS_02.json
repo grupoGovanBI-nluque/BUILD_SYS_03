@@ -21,6 +21,20 @@
       "tabReloadIntervalSeconds": 1800
     },
     {
+      "reporte": "BI_FAC_01 Facturacion",
+      "pagina": "[13] Acumulado Anual ARS (com&constr)",
+      "url": "https://app.powerbi.com/groups/me/reports/1db9c309-839d-4e4d-9974-9fb2e34a5337/ReportSection364479562521e0c3b331?experience=power-bi&chromeless=1",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 1800
+    },
+    {
+      "reporte": "BI_FAC_01 Facturacion",
+      "pagina": "[14] Acumulado Anual ARS (com&constr)",
+      "url": "https://app.powerbi.com/groups/me/reports/1db9c309-839d-4e4d-9974-9fb2e34a5337/ReportSection131d9f9083a3772484bc?experience=power-bi&chromeless=1",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 1800
+    },
+    {
       "reporte": "BI_SYS_02 Aprobación de Comprobantes GESDOC",
       "pagina": "[1] Evolucion de estados",
       "url": "https://app.powerbi.com/groups/me/reports/e784c8d3-374e-4c54-b4af-e6c7d883395a/ReportSection7f137b948eb73079140c?experience=power-bi&chromeless=1",
