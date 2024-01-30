@@ -7,67 +7,18 @@
   "websites": [
     
     {
-      "reporte": "BI_FAC_01 Facturacion",
-      "pagina": "[11] Acumulado Mensual ARS (com&constr)",
-      "url": "https://app.powerbi.com/groups/c4bd9b42-f7a3-40e5-bbc7-d13799f9ce43/reports/1db9c309-839d-4e4d-9974-9fb2e34a5337/ReportSectionac34a11a0d987d5b6a94?experience=power-bi&chromeless=1",
+      "reporte": "BI_LOG_05_Valorizacion_Stock_Reposicion",
+      "pagina": "[1] Portada",
+      "url": "https://app.powerbi.com/groups/db58209d-f531-49e3-a044-65039ea40524/reports/e5ee520b-a1bb-449e-a0e6-ba6d2dfe9ce4/ReportSection8415ae114eb078121180?experience=power-bi&chromeless=1",
       "duration": 20,
       "tabReloadIntervalSeconds": 1800
     },
     {
-      "reporte": "BI_FAC_01 Facturacion",
-      "pagina": "[12] Acumulado Mensual ARS (com&constr)",
-      "url": "https://app.powerbi.com/groups/c4bd9b42-f7a3-40e5-bbc7-d13799f9ce43/reports/1db9c309-839d-4e4d-9974-9fb2e34a5337/ReportSectionb9e62f4a00b970d24a05?experience=power-bi&chromeless=1",
+      "reporte": "BI_LOG_05_Valorizacion_Stock_Reposicion",
+      "pagina": "[2] Empresas [circular]",
+      "url": "https://app.powerbi.com/groups/db58209d-f531-49e3-a044-65039ea40524/reports/e5ee520b-a1bb-449e-a0e6-ba6d2dfe9ce4/ReportSectionb24f29373a1302200084?experience=power-bi&chromeless=1",
       "duration": 20,
       "tabReloadIntervalSeconds": 1800
     },
-    {
-      "reporte": "BI_FAC_01 Facturacion",
-      "pagina": "[13] Acumulado Anual ARS (com&constr)",
-      "url": "https://app.powerbi.com/groups/me/reports/1db9c309-839d-4e4d-9974-9fb2e34a5337/ReportSection364479562521e0c3b331?experience=power-bi&chromeless=1",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 1800
-    },
-    {
-      "reporte": "BI_FAC_01 Facturacion",
-      "pagina": "[14] Acumulado Anual ARS (com&constr)",
-      "url": "https://app.powerbi.com/groups/me/reports/1db9c309-839d-4e4d-9974-9fb2e34a5337/ReportSection131d9f9083a3772484bc?experience=power-bi&chromeless=1",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 1800
-    },
-    {
-      "reporte": "BI_SYS_02 Aprobación de Comprobantes GESDOC",
-      "pagina": "[1] Evolucion de estados",
-      "url": "https://app.powerbi.com/groups/me/reports/e784c8d3-374e-4c54-b4af-e6c7d883395a/ReportSection7f137b948eb73079140c?experience=power-bi&chromeless=1",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 1800
-    },
-    {
-      "reporte": "BI_SYS_02 Aprobación de Comprobantes GESDOC",
-      "pagina": "[2] Evolucion de estados vencidos",
-      "url": "https://app.powerbi.com/groups/me/reports/e784c8d3-374e-4c54-b4af-e6c7d883395a/ReportSection317c9fde31fe6f63af89?experience=power-bi&chromeless=1",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 1800
-    },
-    {
-      "reporte": "BI_SYS_02 Aprobación de Comprobantes GESDOC",
-      "pagina": "[3] Tiempo de Carga",
-      "url": "https://app.powerbi.com/groups/me/reports/e784c8d3-374e-4c54-b4af-e6c7d883395a/ReportSection38d196da840b7c51a39b?experience=power-bi&chromeless=1",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 1800
-    },
-    {
-      "reporte": "BI_SYS_02 Aprobación de Comprobantes GESDOC",
-      "pagina": "[4] Tiempo Apro Fin",
-      "url": "https://app.powerbi.com/groups/me/reports/e784c8d3-374e-4c54-b4af-e6c7d883395a/ReportSection275366330609a7d80e0e?experience=power-bi&chromeless=1",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 1800
-    },
-    {
-      "reporte": "BI_SYS_02 Aprobación de Comprobantes GESDOC",
-      "pagina": "[5] Tiempo Ord Pago",
-      "url": "https://app.powerbi.com/groups/me/reports/e784c8d3-374e-4c54-b4af-e6c7d883395a/ReportSectionec9588fb0d018001d642?experience=power-bi&chromeless=1",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 1800
-    }
   ]
 }
